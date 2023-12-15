@@ -1,0 +1,15 @@
+---
+title: "InterDiff: Generating 3D Human-Object Interactions with Physics-Informed Diffusion"
+collection: publications
+permalink: /publication/interdiff
+excerpt: 'This paper is about human-object interaction.'
+date: 2023-10-01
+venue: 'ICCV'
+paperurl: 'https://openaccess.thecvf.com/content/ICCV2023/html/Xu_InterDiff_Generating_3D_Human-Object_Interactions_with_Physics-Informed_Diffusion_ICCV_2023_paper.html'
+citation: 'Xu, S., Li, Z., Wang, Y. X., & Gui, L. Y. (2023). Interdiff: Generating 3d human-object interactions with physics-informed diffusion. In Proceedings of the IEEE/CVF International Conference on Computer Vision (pp. 14928-14940).'
+---
+This paper is about the number 1. The number 2 is left for future work.
+
+[Download paper here](https://openaccess.thecvf.com/content/ICCV2023/html/Xu_InterDiff_Generating_3D_Human-Object_Interactions_with_Physics-Informed_Diffusion_ICCV_2023_paper.html)
+
+Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
