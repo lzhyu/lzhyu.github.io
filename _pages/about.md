@@ -12,16 +12,18 @@ I'm Zhengyuan Li, currently a master's student in computer science at UIUC under
 
 I'm currently interested in human motion synthesis.
 
-### Publications
-
+#### Publications
+------
 **Positional Mask-Guided Spatial-Temporal Fusion for Human Motion Synthesis.**  
-Zhengyuan Li, Yu-Xiong Wang, and Liang-Yan Gui 
+Zhengyuan Li, Yu-Xiong Wang, and Liang-Yan Gui
+
 *In Submission*
 
 **InterDiff: Generating 3D Human-Object Interactions with Physics-Informed Diffusion \[[paper](https://arxiv.org/abs/2306.05421)]\[[code](https://github.com/Sirui-Xu/InterDiff)\]\[[website](https://sirui-xu.github.io/InterDiff/)\]**
 Sirui Xu, Zhengyuan Li, Yu-Xiong Wang, and Liang-Yan Gui
+
 *ICCV 2023*
 
-Miscellaneous
+#### Miscellaneous
 ------
 TODO
