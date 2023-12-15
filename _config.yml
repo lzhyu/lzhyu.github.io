@@ -85,9 +85,9 @@ author:
   bio              : "Master's Student in CS at UIUC. I'm working on human motion synthesis."
   location         : "Urbana, Illinois"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=HXN7DNoAAAAJ&hl=en"
-  email            : "zli138@illinois.edu
+  email            : "zli138@illinois.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
