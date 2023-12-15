@@ -8,17 +8,20 @@ redirect_from:
   - /about.html
 ---
 
-I'm Zhengyuan Li, currently a master's student in computer science at UIUC under the guidance of Professor Liangyan Gui. I obtained my bachelor's degree in Computer Science at Tsinghua University.
+I'm Zhengyuan Li, currently a master's student in computer science at UIUC under the guidance of Professor [Liangyan Gui](https://cs.illinois.edu/about/people/department-faculty/lgui). I obtained my bachelor's degree in Computer Science at Tsinghua University, where I worked as a research assistant in Professor [Chongjie Zhang](https://engineering.wustl.edu/faculty/Chongjie-Zhang.html)'s lab.
 
 I'm currently interested in human motion synthesis.
 
 ### Publications
 
-**Prejudice or Foolishness: A Statistical Theory of Social Discrimination in Learning Machines**  
+**Positional Mask-Guided Spatial-Temporal Fusion for Human Motion Synthesis.**  
+
 Zhengyuan Li, Yu-Xiong Wang, and Liang-Yan Gui 
+
 *In Submission*
 
 **InterDiff: Generating 3D Human-Object Interactions with Physics-Informed Diffusion \[[paper](https://arxiv.org/abs/2306.05421)]\[[code](https://github.com/Sirui-Xu/InterDiff)\]\[[website](https://sirui-xu.github.io/InterDiff/)\]**
+
 Sirui Xu, Zhengyuan Li, Yu-Xiong Wang, and Liang-Yan Gui
 ICCV 2023
 
