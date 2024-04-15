@@ -20,7 +20,7 @@ Zhengyuan Li, Yu-Xiong Wang, and Liang-Yan Gui
 *In Submission*
 
 **Practical Region-level Attack against Segment Anything Models. \[[paper](https://arxiv.org/abs/2404.08255)]**  
-Yifan Shen*, Zhengyuan Li*, and Gang Wang
+Yifan Shen\*, Zhengyuan Li\*, and Gang Wang  
 *CVPR Workshops 2024*
 
 **InterDiff: Generating 3D Human-Object Interactions with Physics-Informed Diffusion \[[paper](https://arxiv.org/abs/2306.05421)]\[[code](https://github.com/Sirui-Xu/InterDiff)\]\[[website](https://sirui-xu.github.io/InterDiff/)\]**  
